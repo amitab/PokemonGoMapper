@@ -1,0 +1,4 @@
+[submodule "ConsistentHash"]
+	path = ConsistentHash
+	url = https://github.com/amitab/ConsistentHash.git
+	branch = master
